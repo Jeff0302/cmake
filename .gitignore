@@ -1,2 +1,4 @@
 \01_01_firsrt_cmake\build
-\01_02_static_library\build
+\01_02_static_library\student\build
+\01_02_static_library\test_student\build
+\01_03_dynamic_library\build
