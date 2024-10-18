@@ -8,3 +8,9 @@
 \02_04_cmake_variable\build
 \02_05_cmake_include\build
 \02_06_cmake_auto_src\build
+\02_07_cmake_out\build
+\02_07_cmake_out\bin
+\02_07_cmake_out\lib
+\02_08_add_subdirectory\build
+\02_08_add_subdirectory\bin
+\02_08_add_subdirectory\lib
